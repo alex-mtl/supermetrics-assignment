@@ -1,4 +1,4 @@
-[Part 1]()
+[Part 1](https://github.com/alex-mtl/supermetrics-assignment/pull/1/files)
 
 .env
 ```
@@ -11,8 +11,8 @@ FICTIONAL_SOCIAL_API_HOST=https://api.supermetrics.com
 FICTIONAL_SOCIAL_API_CLIENT_ID=ju16a6m81mhid5ue1z3v2g0uh
 ```
 
-[Part 2]()
+[Part 2](https://github.com/alex-mtl/supermetrics-assignment/blob/assignment-part4/Part2.md)
 
-[Part 3]()
+[Part 3](https://github.com/alex-mtl/supermetrics-assignment/blob/assignment-part4/Part3.md)
 
-[Part 4]()
+[Part 4](https://github.com/alex-mtl/supermetrics-assignment/blob/assignment-part4/Part4.md)

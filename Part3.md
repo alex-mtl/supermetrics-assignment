@@ -1,6 +1,6 @@
 # Part 3/4: Refactor the following piece of legacy code
 
-You do not need to write code, you may instead write all the problems you see and how you
+**_You do not need to write code_**, you may instead write all the problems you see and how you
 would refactor this legacy piece of code. Bonus for thinking in an object-oriented way. Of course
 you may also submit stubs of the code refactored if you have time.
 
