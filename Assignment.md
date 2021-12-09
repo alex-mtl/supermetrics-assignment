@@ -1,0 +1,18 @@
+[Part 1]()
+
+.env
+```
+COMPOSE_PROJECT_NAME="supermetrics"
+
+MEMCACHED_HOST=memcached
+MEMCACHED_PORT=11211
+
+FICTIONAL_SOCIAL_API_HOST=https://api.supermetrics.com
+FICTIONAL_SOCIAL_API_CLIENT_ID=ju16a6m81mhid5ue1z3v2g0uh
+```
+
+[Part 2]()
+
+[Part 3]()
+
+[Part 4]()
