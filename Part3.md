@@ -78,4 +78,4 @@ To resolve these issues we need to
 - Not output any data that comes from user without proper sanitizing it.
 - I would strongly recommend to use some templating system like: [Blade](https://laravel.com/docs/8.x/blade), [Twig](https://twig.symfony.com/), [Mustache](http://mustache.github.io/), etc...
 - Never put any credentials of any services (Eg: DB connection credentials) in the code. It should be stored independently and should be provided by some service or during deployment process.
-- Avoid generating raw SQL query strings. We should better to use either prepared statements or PDO libraries like: [Doctrine](https://www.doctrine-project.org/), [Eloquent](https://laravel.com/docs/5.0/eloquent)
+- Avoid generating raw SQL query strings. We should better to use either prepared statements or ORM libraries like: [Doctrine](https://www.doctrine-project.org/), [Eloquent](https://laravel.com/docs/5.0/eloquent)
